@@ -317,6 +317,7 @@ button.invert {
   }
   .boxs{
     margin-top: 50%;
+    margin-left: 70px;
     width: 400px;
     height: 100px;
     background: url(./Image/v-03.png);
